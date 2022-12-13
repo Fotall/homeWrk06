@@ -1,0 +1,15 @@
+/Users/budarin/Desktop/homeWrk06/obj/Debug/net6.0/homeWrk06.csproj.AssemblyReference.cache
+/Users/budarin/Desktop/homeWrk06/obj/Debug/net6.0/homeWrk06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/budarin/Desktop/homeWrk06/obj/Debug/net6.0/homeWrk06.AssemblyInfoInputs.cache
+/Users/budarin/Desktop/homeWrk06/obj/Debug/net6.0/homeWrk06.AssemblyInfo.cs
+/Users/budarin/Desktop/homeWrk06/obj/Debug/net6.0/homeWrk06.csproj.CoreCompileInputs.cache
+/Users/budarin/Desktop/homeWrk06/bin/Debug/net6.0/homeWrk06
+/Users/budarin/Desktop/homeWrk06/bin/Debug/net6.0/homeWrk06.deps.json
+/Users/budarin/Desktop/homeWrk06/bin/Debug/net6.0/homeWrk06.runtimeconfig.json
+/Users/budarin/Desktop/homeWrk06/bin/Debug/net6.0/homeWrk06.dll
+/Users/budarin/Desktop/homeWrk06/bin/Debug/net6.0/homeWrk06.pdb
+/Users/budarin/Desktop/homeWrk06/obj/Debug/net6.0/homeWrk06.dll
+/Users/budarin/Desktop/homeWrk06/obj/Debug/net6.0/refint/homeWrk06.dll
+/Users/budarin/Desktop/homeWrk06/obj/Debug/net6.0/homeWrk06.pdb
+/Users/budarin/Desktop/homeWrk06/obj/Debug/net6.0/homeWrk06.genruntimeconfig.cache
+/Users/budarin/Desktop/homeWrk06/obj/Debug/net6.0/ref/homeWrk06.dll
